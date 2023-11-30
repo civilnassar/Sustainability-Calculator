@@ -30,19 +30,19 @@
     <ClCompile Include="..\..\..\..\Downloads\wasteAssessment.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\EnvironmentalGovernanceAssessment.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\EnergyAssessment.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\Downloads\BuildingsAssessment.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\..\OneDrive\Desktop\ConsoleApplication5\ConsoleApplication5\ConsoleApplication5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\..\OneDrive\Desktop\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\BuildingsAssessment (1).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\EnergyAssessment (1).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\EnvironmentalGovernanceAssessment (1).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -50,5 +50,11 @@
     <ClInclude Include="..\..\..\..\Downloads\Headers.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\OneDrive\Desktop\City Sustainability Scores.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Scores Passthrough.txt" />
   </ItemGroup>
 </Project>

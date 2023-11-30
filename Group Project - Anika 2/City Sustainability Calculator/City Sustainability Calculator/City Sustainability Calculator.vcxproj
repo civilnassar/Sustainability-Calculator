@@ -127,10 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Downloads\BuildingsAssessment.cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\BuildingsAssessment (1).cpp" />
     <ClCompile Include="..\..\..\..\Downloads\carbonAssessment.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\EnergyAssessment.cpp" />
-    <ClCompile Include="..\..\..\..\Downloads\EnvironmentalGovernanceAssessment.cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\EnergyAssessment (1).cpp" />
+    <ClCompile Include="..\..\..\..\Downloads\EnvironmentalGovernanceAssessment (1).cpp" />
     <ClCompile Include="..\..\..\..\Downloads\nick_main.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\transportAssessment.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\wasteAssessment.cpp" />
@@ -140,6 +140,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\Headers.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\..\OneDrive\Desktop\City Sustainability Scores.txt" />
+    <Text Include="Scores Passthrough.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

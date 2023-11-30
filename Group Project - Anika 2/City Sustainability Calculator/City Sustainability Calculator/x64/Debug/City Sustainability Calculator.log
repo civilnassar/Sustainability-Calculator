@@ -1,2 +1,10 @@
 ﻿  City Sustainability Calculator.cpp
+C:\Users\calic\source\repos\City Sustainability Calculator\City Sustainability Calculator\City Sustainability Calculator.cpp(34,46): warning C4101: 'airScore': unreferenced local variable
+C:\Users\calic\source\repos\City Sustainability Calculator\City Sustainability Calculator\City Sustainability Calculator.cpp(34,86): warning C4101: 'transportScore': unreferenced local variable
+C:\Users\calic\source\repos\City Sustainability Calculator\City Sustainability Calculator\City Sustainability Calculator.cpp(34,34): warning C4101: 'waterScore': unreferenced local variable
+C:\Users\calic\source\repos\City Sustainability Calculator\City Sustainability Calculator\City Sustainability Calculator.cpp(34,114): warning C4101: 'totalScore': unreferenced local variable
+C:\Users\calic\source\repos\City Sustainability Calculator\City Sustainability Calculator\City Sustainability Calculator.cpp(34,102): warning C4101: 'wasteScore': unreferenced local variable
+C:\Users\calic\source\repos\City Sustainability Calculator\City Sustainability Calculator\City Sustainability Calculator.cpp(34,56): warning C4101: 'energyScore': unreferenced local variable
+C:\Users\calic\source\repos\City Sustainability Calculator\City Sustainability Calculator\City Sustainability Calculator.cpp(34,69): warning C4101: 'governanceScore': unreferenced local variable
+C:\Users\calic\source\repos\City Sustainability Calculator\City Sustainability Calculator\City Sustainability Calculator.cpp(34,24): warning C4101: 'co2Score': unreferenced local variable
   City Sustainability Calculator.vcxproj -> C:\Users\calic\source\repos\City Sustainability Calculator\x64\Debug\City Sustainability Calculator.exe
